@@ -3,6 +3,6 @@
 # change 3 a become 1500
 
 a=1500
-b=20
+b=200
 print(a*b)
 print(a+b)
