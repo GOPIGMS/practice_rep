@@ -1,1 +1,4 @@
-# This is simple practice repository
+
+
+# This is a sample github practice repository 
+
